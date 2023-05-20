@@ -1,0 +1,11 @@
+git init: Sirve para inicializar un repositorio local.
+git status: Sirve para ver el estado de los archivos si estan bajo el control de git o no.
+git add "nombre del archivo" o .: Sirve para decirle a git que comience a controlar los archivos.
+git commit -m "Nombre dl commit": Sirve para guardar los cambios
+git branch -M main: Sirve para cambiar el nombre de master que viene por defecto a main.
+git remote add origin "url del repositorio": Sirve para vincular el repositorio local con el de la nube.
+git push origin "nombre de la rama": Sirve para enviar los cambios de nuestro repositorio local al repositorio online.
+git pull "nombre da la rama": Sirve para traer los caambios de nuestro repositorio online al local.
+git brach: Sirve para ver las ramas que tiene nuestro repo local.
+git branch "nombre de la rama": Sirve para crear una nueva rama.
+git checkout "nombre de la rama":  Sirve para cambier de rama en nuestro repositorio local.
